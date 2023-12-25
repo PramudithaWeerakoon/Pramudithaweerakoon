@@ -9,4 +9,4 @@
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PramudithaKeshara&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
