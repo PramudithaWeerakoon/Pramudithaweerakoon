@@ -24,7 +24,7 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
   </picture>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pramuditha/Keshara&layout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pramuditha/Kesharalayout=compact&exclude_repo=Robotframwork&hide=Robotframwork)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
