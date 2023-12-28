@@ -23,8 +23,7 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
     <img alt="Dashboard stats of @PramudithaKeshara" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=124908083&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pramuditha/Keshara&count_private=true)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Pramuditha/Keshara)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
