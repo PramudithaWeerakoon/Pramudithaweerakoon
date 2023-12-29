@@ -24,7 +24,7 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
   </picture>
 </a>
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; flex-direction: row; align-items: flex-start;">
 
   <!-- GitHub Stats Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -37,6 +37,7 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
   </a>
 
 </div>
+
 
 
 
