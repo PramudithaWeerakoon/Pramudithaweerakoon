@@ -27,8 +27,8 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
 
 <div style="display: flex; flex-direction: row; align-items: baseline;">
 
-  <!-- GitHub Stats Card - Dark Mode -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- GitHub Stats Card - Dark Mode with Custom Margin -->
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&show_icons=true&theme=dark" alt="GitHub Stats - Dark Mode" />
   </a>
 
@@ -38,6 +38,7 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
   </a>
 
 </div>
+
 
 
 
