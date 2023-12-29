@@ -16,8 +16,7 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
 
 
 <!-- Copy-paste in your Readme.md file -->
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=124908083" target="_blank" style="display: block" align="center">
   <picture>
@@ -26,7 +25,8 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
   </picture>
 </a>
 
-
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
 
 
