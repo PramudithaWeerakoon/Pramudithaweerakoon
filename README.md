@@ -26,17 +26,6 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
 
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
 
- <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&show_icons=true" />
-</picture>
 
   <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
