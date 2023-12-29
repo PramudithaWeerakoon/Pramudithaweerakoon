@@ -25,10 +25,12 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
   </picture>
 </a>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <div style="display: flex; flex-direction: row; align-items: flex-start;">
 
+  <!-- GitHub Stats Card - Dark Mode -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&show_icons=true&theme=dark" alt="GitHub Stats - Dark Mode" />
+  </a>
 
   <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -36,7 +38,6 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
   </a>
 
 </div>
-
 
 
 
