@@ -24,7 +24,15 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
   </picture>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Pramuditha's github stats" /></a>   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PramudithaKeshara&langs_count=8&theme=github_dark&layout=compact&hide_border=true&align="center")
- </a> 
+<!-- GitHub Stats Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PramudithaKeshara&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Pramuditha's GitHub Stats" />
+</a>
+
+<!-- Top Languages Card -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramudithaKeshara&langs_count=8&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" />
+</a>
+
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
