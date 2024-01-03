@@ -1,4 +1,4 @@
-https://github-production-user-asset-6210df.s3.amazonaws.com/108207397/293619327-fe9200a9-2eea-4afc-863e-dc0540658b34.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240102%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240102T060906Z&X-Amz-Expires=300&X-Amz-Signature=b6209db328c2451b9f396f039f0112ee2ff25ba6299d830fad79314e13b0410c&X-Amz-SignedHeaders=host&actor_id=124908083&key_id=0&repo_id=620167526
+
 # 👨‍💻 내 소개
 
 안녕하세요! Ubisoft Montréal의 내부 개발자로 일하며 다양한 게임과 프로젝트의 제작을 지원하는 내부 도구 및 응용 프로그램을 개발하고 테스트했습니다. 훌륭한 개발자 팀과 함께 일하며 소프트웨어의 품질과 기능을 보장하기 위해 컴퓨팅 스킬을 적용했고, 개발 프로세스의 향상 및 최적화에 기여했습니다. 창의적이고 동적인 환경에서 일하는 것을 즐겼으며, 경험 많은 멘토와 동료로부터 배우며 개발자 및 학생으로 성장하는 도전을 경험했습니다.
