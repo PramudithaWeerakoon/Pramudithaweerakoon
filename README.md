@@ -1,5 +1,25 @@
 
-![293619327-fe9200a9-2eea-4afc-863e-dc0540658b34](https://github.com/PramudithaKeshara/PramudithaKeshara/assets/124908083/d9821158-f79d-4d68-91fe-486c7e964444)
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh; /* This ensures the image is centered vertically on the page */
+    }
+  </style>
+</head>
+<body>
+
+<div class="center">
+  <img src="https://github.com/PramudithaKeshara/PramudithaKeshara/assets/124908083/d9821158-f79d-4d68-91fe-486c7e964444" alt="Centered Image">
+</div>
+
+</body>
+</html>
+
 
 # 👨‍💻 내 소개
 
