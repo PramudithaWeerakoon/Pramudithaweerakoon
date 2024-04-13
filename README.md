@@ -1,7 +1,7 @@
 
 
 <div class="center">
-  <img src="https://github.com/Pramudithkeshara/PramudithaKeshara/assets/124908083/d9821158-f79d-4d68-91fe-486c7e964444" alt="Centered Image">
+  <img src="https://github.com/PramudithaKeshara/PramudithaKeshara/assets/124908083/d9821158-f79d-4d68-91fe-486c7e964444" alt="Centered Image">
 </div>
 
 
