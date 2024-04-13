@@ -29,7 +29,7 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=124908083" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=124908083&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @Pramuditha2003" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=124908083&image_size=auto&color_scheme=light" width="771" height="auto">
+    <img alt="Dashboard stats of @PramudithaWeerakoon" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=124908083&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
@@ -37,12 +37,12 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
 
   <!-- GitHub Stats Card - Dark Mode with Custom Margin -->
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Pramuditha2003&show_icons=true&theme=dark" alt="GitHub Stats - Dark Mode" />
+    <img src="https://github-readme-stats.vercel.app/api?username=PramudithaWeerakoon&show_icons=true&theme=dark" alt="GitHub Stats - Dark Mode" />
   </a>
 
   <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pramuditha2003&langs_count=40&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramudithaWeerakoon&langs_count=40&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" />
   </a>
 
 </div>
