@@ -1,7 +1,7 @@
 
 
 <div class="center">
-  <img src="https://github.com/PramudithaKeshara/PramudithaKeshara/assets/124908083/d9821158-f79d-4d68-91fe-486c7e964444" alt="Centered Image">
+  <img src="https://github.com/Pramuditha2003/Pramuditha2003/assets/124908083/d9821158-f79d-4d68-91fe-486c7e964444" alt="Centered Image">
 </div>
 
 
@@ -29,7 +29,7 @@ Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire �
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=124908083" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=124908083&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @PramudithaKeshara" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=124908083&image_size=auto&color_scheme=light" width="771" height="auto">
+    <img alt="Dashboard stats of @Pramuditha2003" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=124908083&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
