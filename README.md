@@ -4,22 +4,21 @@
 
 
 
-# 👨‍💻 내 소개
+# 👨‍💻 About Me
 
-안녕하세요! Ubisoft Montréal의 내부 개발자로 일하며 다양한 게임과 프로젝트의 제작을 지원하는 내부 도구 및 응용 프로그램을 개발하고 테스트했습니다. 훌륭한 개발자 팀과 함께 일하며 소프트웨어의 품질과 기능을 보장하기 위해 컴퓨팅 스킬을 적용했고, 개발 프로세스의 향상 및 최적화에 기여했습니다. 창의적이고 동적인 환경에서 일하는 것을 즐겼으며, 경험 많은 멘토와 동료로부터 배우며 개발자 및 학생으로 성장하는 도전을 경험했습니다.
+Hello! I work as an internal developer at Ubisoft Montréal, where I develop and test internal tools and applications to support the production of various games and projects. Working with a fantastic team of developers, I applied my computing skills to ensure the quality and functionality of the software and contributed to improving and optimizing the development process. I enjoy working in a creative and dynamic environment and have had the opportunity to learn from experienced mentors and colleagues, facing challenges that helped me grow as both a developer and a student.
 
-# 🎓 학력
+# 🎓 Education
 
-Coventry 대학교에서 소프트웨어 공학 학사 학위를, Bedfordshire 대학교에서 소프트웨어 공학 디플로마를 받았습니다. 프로그래밍, 디자인 및 분석에 강한 기초를 가지고 있으며 테스팅 및 디버깅에 대한 큰 흥미를 가지고 있습니다.
+I hold a Bachelor's degree in Software Engineering from Coventry University and a Diploma in Software Engineering from the University of Bedfordshire. I have a strong foundation in programming, design, and analysis, and a keen interest in testing and debugging.
 
-# 💡 기술 및 관심사
+# 💡 Skills and Interests
 
-새로운 기술과 기법을 학습하며 사용자 경험과 만족도를 향상시키는 혁신적인 솔루션을 개발하는 것에 열정적입니다. Tencent Cloud Korea에서 현재 Tencent Cloud 파트너로 근무하고 있습니다. 나의 기술과 지식을 실제 문제와 과제에 적용하고, 나의 비전과 가치를 공유하는 다른 전문가들과 협업할 기회를 찾고 있습니다.
+I'm passionate about learning new technologies and techniques, and developing innovative solutions that enhance user experience and satisfaction. I am currently working as a Tencent Cloud partner at Tencent Cloud Korea. I am always looking for opportunities to apply my skills and knowledge to real-world problems and challenges, and to collaborate with other professionals who share my vision and values.
 
-# 🌐 연락처
+# 🌐 Contact
 
-언제든지 연락주세요! 협업하고 싶거나 질문이 있으면 언제든지 메시지를 남겨주세요.
-
+Feel free to reach out! If you want to collaborate or have any questions, don't hesitate to leave me a message.
 
 <!-- Copy-paste in your Readme.md file -->
 
