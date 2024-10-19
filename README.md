@@ -1,14 +1,14 @@
 # 👨‍💻 About Me
 
-Hello! I work as an internal developer at Ubisoft Montréal, where I develop and test internal tools and applications to support the production of various games and projects. Working with a fantastic team of developers, I applied my computing skills to ensure the quality and functionality of the software and contributed to improving and optimizing the development process. I enjoy working in a creative and dynamic environment and have had the opportunity to learn from experienced mentors and colleagues, facing challenges that helped me grow as both a developer and a student.
+Hello! I work as an internal developer at Ubisoft Montréal. I applied my computing skills to ensure the quality and functionality of the software and contributed to improving and optimizing the development process. I enjoy working in a creative and dynamic environment and have had the opportunity to learn from experienced mentors and colleagues, facing challenges that helped me grow as both a developer and a student.
 
 # 🎓 Education
 
-I hold a Bachelor's degree in Software Engineering from Coventry University and a Diploma in Software Engineering from the University of Bedfordshire. I have a strong foundation in programming, design, and analysis, and a keen interest in testing and debugging.
+I a undergraduate in Software Engineering from Coventry University. I have a strong foundation in programming, design, and analysis, and a keen interest in testing and debugging.
 
 # 💡 Skills and Interests
 
-I'm passionate about learning new technologies and techniques, and developing innovative solutions that enhance user experience and satisfaction. I am currently working as a Tencent Cloud partner at Tencent Cloud Korea. I am always looking for opportunities to apply my skills and knowledge to real-world problems and challenges, and to collaborate with other professionals who share my vision and values.
+I'm passionate about learning new technologies and techniques, and developing innovative solutions that enhance user experience and satisfaction. I am always looking for opportunities to apply my skills and knowledge to real-world problems and challenges, and to collaborate with other professionals who share my vision and values.
 
 # 🌐 Contact
 
