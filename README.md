@@ -1,9 +1,3 @@
-
-
-
-
-
-
 # 👨‍💻 About Me
 
 Hello! I work as an internal developer at Ubisoft Montréal, where I develop and test internal tools and applications to support the production of various games and projects. Working with a fantastic team of developers, I applied my computing skills to ensure the quality and functionality of the software and contributed to improving and optimizing the development process. I enjoy working in a creative and dynamic environment and have had the opportunity to learn from experienced mentors and colleagues, facing challenges that helped me grow as both a developer and a student.
