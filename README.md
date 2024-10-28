@@ -33,7 +33,7 @@ Feel free to reach out! If you want to collaborate or have any questions, don't 
 
   <!-- Top Languages Card -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramudithaWeerakoon&langs_count=40&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramudithaWeerakoon&langs_count=10&theme=github_dark&layout=compact&hide_border=true" alt="Top Languages" />
   </a>
 
 </div>
