@@ -4,7 +4,7 @@ Hello! There my name is Disal Pramuditha Weerakoon and here is little insight ab
 
 # 🎓 Education
 
-I a undergraduate in Software Engineering from Coventry University. I have a strong foundation in programming, design, and analysis, and a keen interest in testing and debugging.
+I a undergraduate in Software Engineering from bedfordshire university. I have a strong foundation in programming, design, and analysis, and a keen interest in testing and debugging.
 
 # 💡 Skills and Interests
 
